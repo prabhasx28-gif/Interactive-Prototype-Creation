@@ -1,0 +1,6 @@
+{
+  "name": "UX Prototype & Validation Platform",
+  "description": "An interactive environment to design wireframes, link hotspots with responsive animations, conduct usability tests, and collect feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
